@@ -1,4 +1,0 @@
-author: "FalloutFalcon"
-delete-after: True
-changes:
-  - refactor: "Tweaks how rolls with cool-down use the old results"
